@@ -3,9 +3,10 @@
 
 #include <iostream>
 
+using namespace std;
 int main()
 {
-    std::cout << "Hello World!\n";
+    cout << "Hello World!\n";
 }
 
 // Uruchomienie programu: Ctrl + F5 lub menu Debugowanie > Uruchom bez debugowania
